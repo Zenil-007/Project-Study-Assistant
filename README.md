@@ -62,7 +62,6 @@ ncert-study-assistant/
 | Retrieval      | BM25 (`rank_bm25`)        |
 | LLM            | Groq API — Llama 3.1 8B   |
 | Interface      | Streamlit                 |
-| Deployment     | Streamlit Community Cloud |
 
 ---
 
